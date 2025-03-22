@@ -20,7 +20,7 @@ Saya Rafly Putra Santoso NIM 2100846 mengerjakan Tugas Praktikum 4 dalam mata ku
   - Update tabel
   - Menampilkan dialog box bahwa input berhasil
 
-Delete
+-Delete
   - User memilih data yang ada di tabel
   - User klik 'Delete'
   - Menampilkan Confirmation Dialog
